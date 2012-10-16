@@ -1,4 +1,4 @@
 ri-usecases
 ===========
 
-The use cases and requirements document for Responsive Images
+This repo is for the [Use Cases and Requirements](http://usecases.responsiveimages.org) document for Responsive Images.
